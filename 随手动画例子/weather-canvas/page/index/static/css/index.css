@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.back-ground-weather{
+    background-color: #435151;
+    width: 100%;
+    height: 100vh;
+}
